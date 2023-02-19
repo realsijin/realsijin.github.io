@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://inkdata.net</id>
+    <title>InkData </title>
+    <updated>2023-02-19T04:44:55.817Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://inkdata.net"/>
+    <link rel="self" href="https://inkdata.net/atom.xml"/>
+    <subtitle>&lt;title&gt;InkData – ID 要闻&lt;/title&gt;
+&lt;meta name=&quot;keywords&quot; content=&quot;微软,Microsoft,Google,Windows,Windows 11,Surface,Xbox,iOS, Android,Office,AI,ChatGPT,Bing,App,工具,Surface,系统,镜像,产品推荐&gt;
+&lt;meta name=&quot;baidu-site-verification&quot; content=&quot;codeva-zkRrq7jHbB&quot; /&gt;</subtitle>
+    <logo>https://inkdata.net/images/avatar.png</logo>
+    <icon>https://inkdata.net/favicon.ico</icon>
+    <rights>All rights reserved 2023, InkData </rights>
+    <entry>
+        <title type="html"><![CDATA[【教程】解决无法体验新 Bing 的方法]]></title>
+        <id>https://inkdata.net/post/fix-the-new-bing-visit/</id>
+        <link href="https://inkdata.net/post/fix-the-new-bing-visit/">
+        </link>
+        <updated>2023-02-18T16:33:06.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>收到新 Bing 体验通知邮件，但却无法体验新 Bing 。解决方法如下：</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>收到新 Bing 体验通知邮件，但却无法体验新 Bing 。解决方法如下：</p>
+</blockquote>
+<!-- more -->
+<p>#退出 Bing Rewards 计划<br>
+地址：<a href="https://rewards.bing.com/optout">https://rewards.bing.com/optout</a><br>
+#重新加入 New Bing<br>
+地址：<a href="https://bing.com/new">https://bing.com/new</a></p>
+<figure data-type="image" tabindex="1"><img src="https://inkdata.net/post-images/1676738367148.png" alt="" loading="lazy"></figure>
+<p>完成上述操作后，挂上梯子/VPN，即可与 New Bing 聊天了~~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【资讯】微软已经为 Bing Chat 设置对话次数上限 ]]></title>
+        <id>https://inkdata.net/post/microsoft-sets-limits-to-bing-chat/</id>
+        <link href="https://inkdata.net/post/microsoft-sets-limits-to-bing-chat/">
+        </link>
+        <updated>2023-02-18T11:09:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>微软已经在 <a href="https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Updates-to-Chat">Bing 博客</a>上宣布将为 Bing Chat 设置对话次数上限。每个对话只能提问 5 次，每天最多能提问的数量为 50 次。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>微软已经在 <a href="https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Updates-to-Chat">Bing 博客</a>上宣布将为 Bing Chat 设置对话次数上限。每个对话只能提问 5 次，每天最多能提问的数量为 50 次。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/828x552/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24435316/STK150_Bing_AI_Chatbot_02.jpg" alt="Bing Chat" loading="lazy"></figure>
+<p>微软表示：与 Bing Chat 进行长对话会导致 Bing Chat 无法提供符合提问“主题”的准确回答，甚至是错误回答。</p>
+<p>该项措施对 99% 的用户没有影响，根据微软的数据，大约只有 1% 左右的用户会每天向 Bing Chat 提问超过 50 次。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【工具】PowerToys：微软出品，内置多种效率工具]]></title>
+        <id>https://inkdata.net/post/Introducing-powertoys/</id>
+        <link href="https://inkdata.net/post/Introducing-powertoys/">
+        </link>
+        <updated>2023-02-16T13:31:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>文件搜索、批量改名、文件预览、图片尺寸修改、着色器、查找鼠标等功能对于提升效率有着极大的帮助。下载各自独立的应用并不是很好的方案。这些实用性功能其实只需要安装微软的 <strong>PowerToys</strong> 即可。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>文件搜索、批量改名、文件预览、图片尺寸修改、着色器、查找鼠标等功能对于提升效率有着极大的帮助。下载各自独立的应用并不是很好的方案。这些实用性功能其实只需要安装微软的 <strong>PowerToys</strong> 即可。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://inkdata.net/post-images/1676556172377.png" alt="" loading="lazy"></figure>
+<p><strong>PowerToys</strong> 支持从 <strong>Microsoft Store</strong> 安装，有应用更新保证，安装完成后，只需要打开页面就能找到各个工具的入口以及使用方式。像：批量改名、修改图片尺寸功能都直接集成在右键菜单中。</p>
+<p>最新版的 <strong>PowerToys</strong> 还加入了快捷启动区域，快捷区域提供了 <strong>PowerToys</strong> 所支持的所有效率功能（如图）。<br>
+<img src="https://inkdata.net/post-images/1676555818118.png" alt="" loading="lazy"></p>
+<p>极力推荐 Windows 用户安装，<strong>Microsoft Store</strong> 安装地址：<a href="https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD">安装 PowerToys</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny 11：占用仅 8GB 的极简版 Windows 11]]></title>
+        <id>https://inkdata.net/post/Introducing-tiny-11/</id>
+        <link href="https://inkdata.net/post/Introducing-tiny-11/">
+        </link>
+        <updated>2023-02-14T12:29:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>Tiny 11 是一款超精简的第三方 Windows 11 系统，目前最新版本基于 Windows 11 22H2，最低支持 2GB RAM + 8GB 存储的设备运行。老款的 Windows 10 设备完全可以直接安装 Tiny 11。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Tiny 11 是一款超精简的第三方 Windows 11 系统，目前最新版本基于 Windows 11 22H2，最低支持 2GB RAM + 8GB 存储的设备运行。老款的 Windows 10 设备完全可以直接安装 Tiny 11。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://inkdata.net/post-images/1676378534667.jpg" alt="" loading="lazy"></figure>
+<p>Tiny 11 的其他优点：</p>
+<ul>
+<li>Windows 11 的必要功能都得到了保留，如：Microsoft Store、Windows Terminal 等</li>
+<li>没有预装 Edge 浏览器（现在变得越来越臃肿）</li>
+<li>默认支持离线账号（同时也支持连接 Microsoft 账号）</li>
+</ul>
+<p>Tiny 11 的一些风险：</p>
+<ul>
+<li>存在一些隐私漏洞（其实也无需太过担心）</li>
+<li>不支持 Windows Update 后续系统大版本更新（或许有人会喜欢这点）</li>
+</ul>
+<figure data-type="image" tabindex="2"><img src="https://inkdata.net/post-images/1676378504387.png" alt="" loading="lazy"></figure>
+<p>有想法让老机器换上新装的，不妨试试 Tiny 11。镜像地址：<a href="https://archive.org/details/tiny-11_202302">https://archive.org/details/tiny-11_202302</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【教程】在中国使用 ChatGPT]]></title>
+        <id>https://inkdata.net/post/use-ChatGPT-in-China/</id>
+        <link href="https://inkdata.net/post/use-ChatGPT-in-China/">
+        </link>
+        <updated>2023-02-14T06:19:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>在国内注册使用 <a href="https://chat.openai.com">ChatGPT</a> 并不容易，在注册过程中，需全程处于 <strong>VPN</strong> 网络下，并且注册最后阶段需要完成<strong>号码验证</strong>。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在国内注册使用 <a href="https://chat.openai.com">ChatGPT</a> 并不容易，在注册过程中，需全程处于 <strong>VPN</strong> 网络下，并且注册最后阶段需要完成<strong>号码验证</strong>。</p>
+<!-- more -->
+<p>ChatGPT 注册地址：<a href="https://chat.openai.com/auth/login">chat.openai.com</a><br>
+<img src="https://inkdata.net/post-images/1676358150056.png" alt="" loading="lazy"></p>
+<p>##解决 VPN 问题：</p>
+<p>VPN 的服务商有很多，可以选择大牌的如: ExpressVPN、NordVPN 等。</p>
+<p>##解决号码验证：</p>
+<p>号码验证推荐使用 SMS-Activate 服务，注册地址：<a href="https://sms-activate.org/">https://sms-activate.org/</a>  (如图)<br>
+<img src="https://inkdata.net/post-images/1676357100375.png" alt="" loading="lazy"></p>
+<p>接下来在网页左侧搜索框中输入 OpenAI，选择印度尼西亚即可（价格最便宜），价格约为 30 ₽<br>
+（如图）<br>
+<img src="https://inkdata.net/post-images/1676357115176.png" alt="" loading="lazy"></p>
+<p>在 SMS-Activate 账户中充值，充值地址：<a href="https://sms-activate.org/buy">https://sms-activate.org/buy</a>，支持支付宝，30 ₽ 的额度只需要充值 0.43 美金即可。（如图）<br>
+<img src="https://inkdata.net/post-images/1676357558104.png" alt="" loading="lazy"></p>
+<p>购买完成后，会有一个激活页面，上面显示着号码和使用倒计时。<br>
+<img src="https://inkdata.net/post-images/1676357665775.png" alt="" loading="lazy"></p>
+<p>ChatGPT 注册的最后一步，输入你得到的号码，并在 SMS-Activate 页面等待验证码即可。输入完成验证后，ChatGPT 账号就注册完成了。</p>
+<figure data-type="image" tabindex="1"><img src="https://inkdata.net/post-images/1676358226670.png" alt="" loading="lazy"></figure>
+<p>完成注册后，在使用 ChatGPT 时，也需要处于 VPN 网络下。祝大家与 ChatGPT 玩得开心！</p>
+]]></content>
+    </entry>
+</feed>
